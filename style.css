@@ -1,0 +1,123 @@
+body {
+	background-image: url("jimi1.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	padding: 0;
+
+}
+
+header {
+	background-image: url("jimi-banner.jpg");
+	background-color: black;
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100px;
+	margin-bottom: 5px;
+}
+
+h1 {
+	text-align: right;
+	color: #cc00cc;
+	margin: 0;
+	font-size: 20px;
+}
+
+#column1 {
+	width: 350px;
+	height: 261px;
+	float: left;
+	margin-right: 20px;
+	margin-left: 20px;
+
+}
+
+#styledImage {
+    clear: both;
+    border: 3px purple;
+    border-style: solid;
+    border-color: #purple;
+    display: block;
+    width: 350px;
+    height: 261px;
+  }
+
+.play {
+	height: 240px;
+	position: relative;
+	bottom: -20px;
+	text-align: center;
+}
+
+.white {
+	color: white;
+	
+}
+
+#column2 {
+	float: left;
+	width: 440px;
+	padding-left: 30px;
+	padding-right: 30px;
+	font-size: 18px;
+	margin-bottom: 50px;
+
+}
+
+h2 {
+	clear: both;
+	color: purple;
+	font-weight: bold;
+	font-size: 30px;
+	text-align: center;
+}
+
+.black {
+	background-color: white;
+	line-height: 150%;
+	
+}
+
+
+#com {
+	color: orange;
+
+}
+
+
+#column3 {
+	width: 100%;
+	background-color: black;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	float: left;
+	border-top: 3px;
+	border-bottom: 3px;
+	border-style: solid;
+	border-color: #595959;
+	padding-top: 7px;
+	padding-bottom: 7px;
+
+
+}
+
+.antemortem {
+	float: left;
+	width: 25%;
+
+	
+}
+
+
+.albums {
+	width: 100px;
+	height: 100px;
+}
+
+.date {
+	color: #595959;
+}
+
+
